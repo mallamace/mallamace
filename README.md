@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Nathan Mallamace
+# 👋 Hello! I'm Nathan Mallamace
 
-🎯 AI Innovator | AI-Driven Applications Enthusiast | Founder of DoggyDish.com
+🎯 AI Innovator | AI-Driven Applications Enthusiast | Technology Speaker
 
-🚀 Building the future of AI with agentic workflows and no-code AI solutions.
+🚀 Building the future of AI hardware applications and AI Solutions.
 
 💻 Current Projects:
 - **[DoggyDish.com](https://doggydish.com)** – A no-code resource for deploying agentic AI applications.
