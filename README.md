@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Nathan Mallamace
 
-<!--
-**mallamace/mallamace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI Innovator | AI-Driven Applications Enthusiast | Founder of DoggyDish.com
 
-Here are some ideas to get you started:
+🚀 Building the future of AI with agentic workflows and no-code AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Current Projects:
+- **DoggyDish.com** – A no-code platform for deploying agentic AI applications.
+- **Mallamace.com** – My personal site for AI innovations and thought leadership.
+- **GitHub Portfolio** – Open-source AI projects and contributions.
+
+📚 Areas of Expertise:
+- AI Infrastructure
+- Generative AI Applications
+- Rack-Scale Integration for AI Data Centers
+- No-Code and Low-Code AI Development
+
+🌎 Let's Connect:
+- [DoggyDish.com](https://doggydish.com)
+- [Mallamace.com](https://mallamace.com)
+- [LinkedIn](https://linkedin.com/in/nathanmallamace)
+- [GitHub](https://github.com/mallamace)
+
+---
+
+*"Empowering the next generation of AI innovation, one application at a time."*
