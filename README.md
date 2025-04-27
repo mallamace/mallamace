@@ -5,8 +5,8 @@
 🚀 Building the future of AI with agentic workflows and no-code AI solutions.
 
 💻 Current Projects:
-- **DoggyDish.com** – A no-code platform for deploying agentic AI applications.
-- **Mallamace.com** – My personal site for AI innovations and thought leadership.
+- **[DoggyDish.com](https://doggydish.com)** – A no-code resource for deploying agentic AI applications.
+- **[Mallamace.com](https://mallamace.com)** – My personal site for AI innovations and thought leadership.
 - **GitHub Portfolio** – Open-source AI projects and contributions.
 
 📚 Areas of Expertise:
@@ -16,8 +16,6 @@
 - No-Code and Low-Code AI Development
 
 🌎 Let's Connect:
-- [DoggyDish.com](https://doggydish.com)
-- [Mallamace.com](https://mallamace.com)
 - [LinkedIn](https://linkedin.com/in/nmallamace)
 - [GitHub](https://github.com/mallamace)
 - [Crunchbase](https://www.crunchbase.com/person/nathan-mallamace)
