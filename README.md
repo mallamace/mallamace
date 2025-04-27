@@ -21,6 +21,7 @@
 - [LinkedIn](https://linkedin.com/in/nmallamace)
 - [GitHub](https://github.com/mallamace)
 - [Crunchbase](https://www.crunchbase.com/person/nathan-mallamace)
+- [Medium](https://mallamace.medium.com/about)
 
 ---
 
