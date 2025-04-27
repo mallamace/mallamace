@@ -20,6 +20,7 @@
 - [Mallamace.com](https://mallamace.com)
 - [LinkedIn](https://linkedin.com/in/nmallamace)
 - [GitHub](https://github.com/mallamace)
+- [Crunchbase](https://www.crunchbase.com/person/nathan-mallamace)]
 
 ---
 
