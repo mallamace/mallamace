@@ -18,7 +18,7 @@
 🌎 Let's Connect:
 - [DoggyDish.com](https://doggydish.com)
 - [Mallamace.com](https://mallamace.com)
-- [LinkedIn](https://linkedin.com/in/nathanmallamace)
+- [LinkedIn](https://linkedin.com/in/nmallamace)
 - [GitHub](https://github.com/mallamace)
 
 ---
